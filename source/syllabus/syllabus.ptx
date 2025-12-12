@@ -195,6 +195,4 @@
     </paragraphs>
   </subsection>
   <!-- Since some parts of the syllabus are used in multiple courses, the following are included as separate files that can easily be copied elsehwere. -->
-  <xi:include href="./subsec-policies.ptx" />
-  <xi:include href="./subsec-dates.ptx" />
 </section>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<subsection xml:id="sec-course-policies">
+<section xml:id="sec-course-policies">
   <title>Course Policies</title>
 
   <paragraphs>
@@ -139,4 +139,4 @@
   
   </paragraphs>
 
-</subsection>
+</section>
