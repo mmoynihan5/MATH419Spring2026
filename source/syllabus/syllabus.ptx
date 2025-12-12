@@ -49,7 +49,8 @@
         <title>Course Description</title>
 
         <p>
-          course description from catalog
+          An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms.
+          Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.
         </p>
       </li>
 
@@ -57,7 +58,7 @@
         <title>Prerequisite</title>
 
         <p>
-          list of prerequisites
+          Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.
         </p>
       </li>
 
