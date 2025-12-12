@@ -5,7 +5,7 @@
 
   <introduction>
     <p>
-      Welcome to what promises to be an exciting and fun semester of ...
+      Welcome to MATH 419!
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -63,12 +63,36 @@
       </li>
 
       <li>
-        <title>Textbook and course materials</title>
+        <title>Textbook</title>
 
         <p>
-          <pubtitle>textbook name</pubtitle>
-          by textbook author.
+          <pubtitle>Abstract Algebra: Theory and Applications</pubtitle>
+          by Thomas W. Judson.
         </p>
+        
+        <p>
+          <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
+        </p>
+
+
+        <blockquote>
+          <title>Reading Mathematics</title>
+          <p>
+            <q>
+              Don’t just read it; fight it!
+              Ask your own questions, look for your own examples, discover your own proofs.
+              Is the hypothesis necessary?
+              Is the converse true?
+              What happens in the classical special case?
+              What about the degenerate cases?
+              Where does the proof use the hypothesis?
+            </q>
+          </p>
+
+          <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
+        </blockquote>
+
+
       </li>
       </dl>
     </p>
