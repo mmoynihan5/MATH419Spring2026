@@ -1,13 +1,13 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus",
+  "id": "information",
   "level": "1",
-  "url": "syllabus.html",
-  "type": "Section",
+  "url": "information.html",
+  "type": "Chapter",
   "number": "",
-  "title": "Syllabus",
-  "body": " Syllabus   Welcome to MATH 419, Section 001 for Spring 2026.     Course Information     Instructor  Prof. Moynihan, HH 402D, mmoynihan5@framingham.edu .    Student Hours  TBD   Important : I want to see you in student hours, and will happily make appointments with you outside of the regular hours. I'm also available by email and will respond within 24 hours, usually much sooner. There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.    Class meets  MW 2:30pm - 4:20pm in HA 510    Course Description  An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms. Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.    Prerequisite  Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.    Textbook   Abstract Algebra: Theory and Applications by Thomas W. Judson.   Read Online    Reading Mathematics   Don’t just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?   Paul Halmos       Course Overview      "
+  "title": "Course Information",
+  "body": " Course Information   Welcome to MATH 419, Section 001 for Spring 2026.      Instructor  Prof. Moynihan, HH 402D, mmoynihan5@framingham.edu .    Student Hours  TBD   Important : I want to see you in student hours, and will happily make appointments with you outside of the regular hours. I'm also available by email and will respond within 24 hours, usually much sooner. There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.    Class meets  MW 2:30pm - 4:20pm in HA 510    Course Description  An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms. Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.    Prerequisite  Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.    Textbook   Abstract Algebra: Theory and Applications by Thomas W. Judson.   Read Online    Reading Mathematics   Don’t just read it; fight it! Ask your own questions, look for your own examples, discover your own proofs. Is the hypothesis necessary? Is the converse true? What happens in the classical special case? What about the degenerate cases? Where does the proof use the hypothesis?   Paul Halmos       Course Overview     "
 },
 {
   "id": "Grading",
