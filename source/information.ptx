@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Syllabus</title>
+<chapter xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Information</title>
 
   <introduction>
     <p>
@@ -9,9 +9,6 @@
 
     </p>
   </introduction>
-  <!-- Include chapters -->
-  <subsection xml:id="sec-course-info">
-    <title>Course Information</title>
 
     <p>
       <dl>
@@ -103,7 +100,6 @@
       <p>
       </p>
     </paragraphs>
-  </subsection>
 
 
-</section>
+</chapter>
