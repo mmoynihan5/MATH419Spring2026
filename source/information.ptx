@@ -3,102 +3,94 @@
 <section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
 
-  <introduction>
     <p>
-      Welcome to MATH 419, Section 001 for Spring 2026.
-
+      Welcome to MATH 419 for Spring 2026!
     </p>
-  </introduction>
 
     <p>
       <dl>
-      <li>
-        <title>Instructor</title>
+        <li>
+          <title>Instructor</title>
 
-        <p>
-          Prof. Moynihan (he/him), HH 402D, <url href="mailto:mmoynihan5@framingham.edu">mmoynihan5@framingham.edu</url>. (508) 626-4728
-        </p>
-
-        <p>
-          (I try to respond within 24 hours, Monday-Friday.)
-        </p>
-      </li>
-
-      <li>
-        <title>Student Hours</title>
-
-        <p>
-          TBD
-        </p>
-
-        <p>
-          <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.  I'm also available by email and will respond within 24 hours, usually much sooner.  There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
-        </p>
-      </li>
-
-      <li>
-        <title>Class meets</title>
-
-        <p>
-          MW 2:30pm - 4:20pm in HA 510
-        </p>
-      </li>
-
-      <li>
-        <title>Course Description</title>
-
-        <p>
-          An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms.
-          Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.
-        </p>
-      </li>
-
-      <li>
-        <title>Prerequisite</title>
-
-        <p>
-          Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.
-        </p>
-      </li>
-
-      <li>
-        <title>Textbook</title>
-
-        <p>
-          <pubtitle>Abstract Algebra: Theory and Applications</pubtitle>
-          by Thomas W. Judson. <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
-        </p>
-
-
-        <blockquote>
-          <title>Reading Mathematics</title>
           <p>
-            <q>
-              Don’t just read it; fight it!
-              Ask your own questions, look for your own examples, discover your own proofs.
-              Is the hypothesis necessary?
-              Is the converse true?
-              What happens in the classical special case?
-              What about the degenerate cases?
-              Where does the proof use the hypothesis?
-            </q>
+            Prof. Moynihan (he/him), HH 402D, <url href="mailto:mmoynihan5@framingham.edu">mmoynihan5@framingham.edu</url>. (508) 626-4728
           </p>
 
-          <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
-        </blockquote>
+          <p>
+            (I try to respond within 24 hours, Monday-Friday.)
+         </p>
+        </li>
+
+        <li>
+          <title>Student Hours</title>
+
+          <p>
+            TBD
+          </p>
+
+          <p>
+            <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.  I'm also available by email and will respond within 24 hours, usually much sooner.  There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
+          </p>
+        </li>
+
+        <li>
+          <title>Class Meets</title>
+
+          <p>
+            MW 2:30pm - 4:20pm in HA 510
+          </p>
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            An introduction to algebraic structures including groups, rings, and fields, and their sub-structures, as well as homomorphisms and isomorphisms.
+            Fundamental number theoretic topics are included to establish connections and provide examples in the context of abstract algebra.
+         </p>
+       </li>
+
+        <li>
+          <title>Prerequisite</title>
+
+          <p>
+            Completion of MATH 226 Linear Algebra with a minimum grade of C (2.00) or higher.
+          </p>
+        </li>
+
+        <li>
+          <title>Textbook</title>
+
+          <p>
+            <pubtitle>Abstract Algebra: Theory and Applications</pubtitle>
+            by Thomas W. Judson. <url href="https://judsonbooks.org/aata-files/aata-html/aata.html" visual="judsonbooks/aata">Read Online</url>
+          </p>
 
 
-      </li>
+          <blockquote>
+            <title>Reading Mathematics</title>
+            <p>
+              <q>
+                Don’t just read it; fight it!
+                Ask your own questions, look for your own examples, discover your own proofs.
+                Is the hypothesis necessary?
+                Is the converse true?
+                What happens in the classical special case?
+                What about the degenerate cases?
+                Where does the proof use the hypothesis?
+              </q>
+            </p>
+
+            <attribution><url href="https://en.wikipedia.org/wiki/Paul_Halmos" visual="wikipedia/Paul_Halmos">Paul Halmos</url></attribution>
+          </blockquote>
+        </li>
       </dl>
     </p>
 
 
    
-    <paragraphs>
+    <subsection>
       <title>Course Goals</title>
-
-
-
 
       <p>
         <ul>
@@ -121,7 +113,7 @@
           
         </ul>
       </p>
-    </paragraphs>
+    </subsection>
 
 
   </section>

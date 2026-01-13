@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="policies">
-    <title>Course Policies</title>
+  <title>Course Policies</title>
 
-  <paragraphs>
+  <introduction>
+    <p>
+      Make sure you familiarize yourself with the following course and university policies.
+    </p>
+  </introduction>
+
+  <subsection>
     <title>Attendance</title>
 
     <p>
@@ -19,10 +25,10 @@
       Otherwise, I expect to see you in class.
     </p>
 
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>Late work</title>
     <p>
       Make-up exams should be a rare occurrence reserved for illness and/or emergencies.
@@ -35,10 +41,10 @@
       However, you can only extend the due date by one week.
       This is to make sure you do not fall too far behind and to make sure we are all ready to participate in class.
     </p> -->
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>Classroom Decorum</title>
         <p>
           Show an attitude of respect toward everyone in the classroom.
@@ -48,10 +54,10 @@
         <p>
           Attend every class awake, on time, and ready to learn with cell phones and all other electronic devices off and out of sight.
         </p>
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>My Expectations</title>
         <p>
           <ul>
@@ -86,10 +92,10 @@ Make sure you test yourself before I do!
             </li>
           </ul>
         </p>
-  </paragraphs>
+  </subsection>
 
   
-  <paragraphs>
+  <subsection>
     <title>Academic Integrity</title>
 
     <p>
@@ -127,10 +133,10 @@ Make sure you test yourself before I do!
         
       </ul>
     </p>
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>Generative AI</title>
 
     <p>
@@ -139,9 +145,9 @@ Make sure you test yourself before I do!
       Also, LLM's are good at producing nonsense that sounds rational.
       They are bad at producing actual proofs.
     </p>
-  </paragraphs>
+  </subsection>
 
-  <paragraphs>
+  <subsection>
     <title>Antiracism at FSU</title>
 
   
@@ -157,10 +163,10 @@ Make sure you test yourself before I do!
       I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences, and supports the realization of everyone's potential.
     </p>
 
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>Sexual Harassment</title>
 
     <p>
@@ -168,9 +174,9 @@ Make sure you test yourself before I do!
       If you or someone you know has experienced any form of sexual or gender-based misconduct, we urge you to visit the <url href="https://www.framingham.edu/sexual-harassment-assault-prevention-education" visual="Framingham/SHAPE">SHAPE</url> website for information regarding on-campus and community resources, University policy, contact information for the Title IX Coordinators, confidential and non-confidential reporting options, victim rights, and more.
     </p>
 
-  </paragraphs>
+  </subsection>
 
-  <paragraphs>
+  <subsection>
     <title>Notice of Non-Discrimination and Diversity</title>
 
     <p>
@@ -179,17 +185,19 @@ Make sure you test yourself before I do!
       Furthermore, the Massachusetts Civil Rights Act (``MCRA,'' M.G.L. c. 12, &#xA7;&#xA7; 11H, 11I, 11J) protects the rights of all residents of and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights.
       The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.
     </p>
-  </paragraphs>
+  </subsection>
 
 
-  <paragraphs>
+  <subsection>
     <title>Syllabus Changes</title>
 
     <p>
       The instructor reserves the right to make changes to this syllabus.
       Any changes will be announced to the class in a timely manner.
     </p>
+
+  </subsection>
+
   
-  </paragraphs>
 
 </section>

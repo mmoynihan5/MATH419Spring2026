@@ -1,96 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="important-dates">
-      <title>Important Dates</title>
+  <title>Important Dates</title>
 
+  <p>
+    The following are the most significant university and course dates this term.
+    For smaller course assignment due dates, check the <url href="https://framingham.instructure.com/">Canvas</url> calendar regularly.
+  </p>
 
   <p>
     <dl width="wide">
-    <li>
-      <title>Tuesday, Jan 27</title>
+      <li>
+        <title>Tuesday, Jan 27</title>
 
-      <p>
-        Last day to add/drop a class
-      </p>
-    </li>
+        <p>
+          Last Day to Add/Drop a Semester Course
+        </p>
+      </li>
 
-    <li>
-      <title>Monday, Feb 16</title>
+      <li>
+        <title>Monday, Feb 16</title>
 
-      <p>
-        Presidents' Day (no classes)
-      </p>
-    </li>
+        <p>
+          Presidents' Day (No Classes)
+        </p>
+      </li>
 
-    <li>
-      <title>Monday, Feb 23</title>
+      <li>
+        <title>Monday, Feb 23</title>
 
-      <p>
-        Exam 1
-      </p>
-    </li>
-
-
-    <li>
-      <title>March 14 - March 22</title>
-
-      <p>
-        Spring Vacation
-      </p>
-
-    </li>
-
-    <li>
-      <title>Monday, Mar 30</title>
-
-      <p>
-        Exam 2
-      </p>
-    </li>
-
-    <li>
-      <title>Monday, Apr 20</title>
-
-      <p>
-        Patriots' Day (no classes)
-      </p>
-    </li>
+        <p>
+          Exam 1
+        </p>
+      </li>
 
 
-    <li>
-      <title>Friday, Apr 24</title>
+      <li>
+        <title>March 14 - March 22</title>
 
-      <p>
-        Last day to withdraw and receive a W
-        Also last day to take a course Credit/No Credit
-      </p>
-    </li>
+        <p>
+          Spring Vacation (No Classes)
+        </p>
 
-    <li>
-      <title>Wednesday, Apr 29</title>
+      </li>
 
-      <p>
-        Exam 3
-      </p>
-    </li>
+      <li>
+        <title>Monday, Mar 30</title>
+
+        <p>
+          Exam 2
+        </p>
+      </li>
+
+      <li>
+        <title>Monday, Apr 20</title>
+
+        <p>
+          Patriots' Day (No Classes)
+        </p>
+      </li>
 
 
-    <li>
-      <title>Friday, May 08</title>
+      <li>
+        <title>Friday, Apr 24</title>
 
-      <p>
-        Semester classes end	
-      </p>
-    </li>
+        <p>
+          Last Day to Withdraw with a W
+        </p>
+        <p>
+          Last Day to Take a Course Credit/No Credit
+        </p>
+      </li>
+
+      <li>
+        <title>Wednesday, Apr 29</title>
+
+        <p>
+          Exam 3
+        </p>
+      </li>
 
 
-    <li>
-      <title>TBA</title>
+      <li>
+        <title>Friday, May 08</title>
 
-      <p>
-        Final Exam from ? to ?
-      </p>
-    </li>
+        <p>
+          Semester Classes End	
+        </p>
+      </li>
+
+
+      <li>
+        <title>TBA</title>
+
+        <p>
+          Final Exam from ? to ?
+        </p>
+      </li>
     </dl>
   </p>
 </section>
