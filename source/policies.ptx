@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="policies">
+<section xml:id="policies">
     <title>Course Policies</title>
 
   <paragraphs>
@@ -192,4 +192,4 @@ Make sure you test yourself before I do!
   
   </paragraphs>
 
-</chapter>
+</section>

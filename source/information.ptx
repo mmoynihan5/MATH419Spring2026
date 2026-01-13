@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<chapter xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
 
   <introduction>
@@ -124,4 +124,4 @@
     </paragraphs>
 
 
-</chapter>
+  </section>

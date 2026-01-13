@@ -12,7 +12,7 @@
 <publication>
   <common>
     <!-- Level at which are html files generated (chapter/section/etc): -->
-      <chunking level="2" />
+      <chunking level="0" />
 
     <!-- Depth for table of contents.  0 means no TOC -->
       <!--<tableofcontents level="1" />-->
@@ -146,8 +146,9 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
-        theme="denver"
-        primary-color="#386F94"
+        theme="default-modern"
+        primary-color="#FCB614"
+        secondary-color="#000000"
         primary-color-dark="#5192BD"
         provide-dark-mode="yes"
     />
@@ -158,7 +159,7 @@
 
     <!-- Table of Contents: focused="yes" enables expand/collapse functionality. -->
     <!-- @preexpanded-levels controls how deep to expend toc initially.          -->
-      <!--<toc focused="yes" preexpanded-levels="1" />-->
+      <toc focused="yes" preexpanded-levels="0" />
 
     <!-- Navigation options: linear or tree, and whether there is an "up" button -->
       <!--<navigation logic="tree" upbutton="no" />-->

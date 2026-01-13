@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="Grading">
+<section xml:id="Grading">
 
   <title>Grading</title>
   
 
-    <p>
-    </p>
 
-
-
-    <paragraphs>
+    <subsection>
       <title>Practically Perfect Proofs</title>
 
       <p>A practically perfect proof will be due approximately once a week.
@@ -24,7 +20,7 @@
         Use of outside sources such as Chegg, Math Overflow, ProofWiki, ChatGPT, or other students in the course will be considered academic dishonesty.
         You will receive no credit for the assignment and not be allowed any revisions.
       </p>
-    </paragraphs>
+    </subsection>
 
 
     <paragraphs>
@@ -83,9 +79,9 @@
       <p>
         The following percentage weights are used for calculating your weighted course average.
         <!-- Students needing to take MATH 180 Precalculus are required to earn a C (2.00) or better in MATH 123/123R Introduction to Functions. -->
-         <sbsgroup widths="20% 15%" margins="30%">
+         <sbsgroup widths="20% 15%" halign="right left" margins="30%">
           <sidebyside>
-            <p>$P^3$</p>
+            <p><m>P^3</m></p>
             <p>15%</p>
           </sidebyside>
 
@@ -179,4 +175,4 @@
     </paragraphs>
 
 
-</chapter>
+  </section>
