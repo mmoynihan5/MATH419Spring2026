@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Syllabus</title>
+    
+    
+
+    <xi:include href="./information.ptx" />
+    
+    <xi:include href="./grading.ptx"/>
+
+    <xi:include href="./policies.ptx"/>
+
+    <xi:include href="./FAQ.ptx"/>
+
+    <xi:include href="./dates.ptx"/>
+
+</chapter>

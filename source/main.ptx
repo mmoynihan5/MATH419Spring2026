@@ -5,7 +5,7 @@
   <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
-  <article>
+  <book>
     <title>Abstract Algebra</title>
 
     <subtitle>MATH 419 Spring 2026</subtitle>
@@ -15,20 +15,14 @@
 
     
    
-      <xi:include href="./information.ptx" />
+    <xi:include href="./syllabus/syllabus.ptx" />
 
 
-    
-      <xi:include href="./grading.ptx"/>
+    <chapter xml:id="ch-handouts">
+      <title>Handouts</title>
 
+      <xi:include href="./handouts/big_idea_equivalence_relations.ptx" />
 
-      <xi:include href="./policies.ptx"/>
-
-      <xi:include href="./FAQ.ptx"/>
-
-
-      <xi:include href="./dates.ptx"/>
-
-
-  </article>
-  </pretext>
+    </chapter>
+  </book>
+</pretext>

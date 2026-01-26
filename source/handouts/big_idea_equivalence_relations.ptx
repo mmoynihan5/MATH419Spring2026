@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+    <title>Big Idea 2: Equivalence Relations</title>  
+    
+
+    <definition>
+        <statement>
+            <p>
+                Let <m>X</m> and <m>Y</m> be sets.
+                A <alert>relation</alert> <m>R</m> from <m>X</m> to <m>Y</m> is a subset of <m>X \times Y</m>.
+            </p>
+        </statement>
+    </definition>
+
+
+\begin{defn}
+Suppose $R$ is a relation from $X$ to $X$.
+\begin{itemize}[topsep=0pt]
+\item We say $R$ is \textbf{reflexive} if $(x,x) \in R$ for all $x \in X$.
+\item We say $R$ is \textbf{symmetric} if $(x,y) \in R$ implies $(y,x) \in R$.
+\item We say $R$ is \textbf{transitive} if $(x,y) \in R$ and $(y,z) \in R$ imply $(x,z) \in R$.
+\end{itemize}
+A relation that is reflexive, symmetric, and transitive is called an \textbf{equivalence relation}.
+This is usually denoted by the symbol $\sim$, so $(x,y) \in R$ is denoted $x \sim y$.
+\end{defn}
+
+
+    <definition>
+        <statement>
+            <p>
+                Let <m>\sim</m> be an equivalence relation on <m>X</m>.
+                For each <m>x\in X</m>, define the <alert>equivalence class</alert> of <m>x</m>, denoted <m>[x]</m>, to be the set of all elements in <m>X</m> that are equivalent to <m>x</m>.
+                That is, <md><mrow>[x] = \{ y \in X : y \sim x\}.</mrow></md>
+            </p>
+        </statement>
+    </definition>
+
+
+\begin{defn}
+A \textbf{partition} $\mathcal{P}$ of a set $X$ is a collection of nonempty sets $X_1, X_2, \ldots$ such that $X_i \cap X_j = \varnothing$ for $i \neq j$ and $\displaystyle\bigcup_{k} X_{k} = X$.
+\end{defn}
+
+
+<theorem>
+    <p>
+If $\sim$ is an equivalence relation on a set $X$, then $\ds{X = \bigcup_{x \in X} [x]}$.
+Also, if $[x] \neq [y]$, then $[x] \cap [y] = \varnothing$, so any two equivalence classes are either equal or disjoint.
+The says that the equivalence classes \textbf{partition} the set $X$.
+    </p>
+</theorem>
+
+
+
+
+
+<example>
+    <statement>
+        <p>
+    Let $n \in \N$.
+Recall, two integers $a$ and $b$ are \textbf{congruent modulo} $\mathbf{n}$ if $a$ and $b$ have the same remainder when divided by $n$.
+This is denoted $a \equiv b\: (mod\: n)$.
+
+
+Equivalently, <m>a\equiv b\: (mod\: n)</m> if $a-b$ is divisible by $n$, i.e., $a-b = mn$ for some integer~$m$.
+
+
+Define a relation <m>\sim</m> on $\Z$ by $a \sim b$ if $a \equiv b \: (mod\: n)$.
+Then $\sim$ is an equivalence relation.
+        </p>
+    </statement>
+</example>
+
+
+</worksheet>
