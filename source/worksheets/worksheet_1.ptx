@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+    <title>Worksheet 1</title>
+
+    <exercise workspace="1in">
+        <introduction>
+            <p>
+                Consider the relation <m>\sim</m> on <m>\mathbb{Q}</m> defined by <m>x \sim y</m> if and only if <m>(x - \pi)(y - \pi) > 0</m>.
+            </p>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                    Prove that <m>\sim</m> is an equivalence relation.
+                </p>
+            </statement>
+        </task>
+            
+        <task>
+            <statement>
+                <p>
+                    Give three distinct elements in the equivalence class of <m>0</m>.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <exercise workspace="1in">
+        <statement>
+            <p>
+                Suppose <m>a</m>, <m>b</m>, and <m>c</m> are integers such that <m>a \mid (b+c)</m> and <m>\gcd(b,c) = 1</m>.
+                Show that <m>\gcd(a,c) = 1</m>.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="1in">
+        <statement>
+            <p>
+                The function <m>f:\mathbb{R} \setminus \{5\} \rightarrow \mathbb{R} \setminus \{1\}</m> defined by <m>f(x) = \dfrac{x}{x-5}</m> is a bijection.
+                Prove that <m>f</m> is injective and surjective.
+            </p>
+        </statement>
+    </exercise>
+
+</worksheet>

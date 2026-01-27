@@ -24,5 +24,12 @@
       <xi:include href="./handouts/big_idea_equivalence_relations.ptx" />
 
     </chapter>
+
+    <chapter xml:id="ch-Worksheets">
+      <title>Worksheets</title>
+
+        <xi:include href="./worksheets/worksheet_1.ptx" />
+
+    </chapter>
   </book>
 </pretext>
